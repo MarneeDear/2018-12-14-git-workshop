@@ -13,9 +13,9 @@ Julian Pistorius
 
 # Details
 
-__Date__: Dec. 7, 2018
+__Date__: Dec. 14, 2018
 
-__Time__: 9am to 12pm
+__Time__: 8:45am to 12pm
 
 __Location__: Drachman Hall A122
 
